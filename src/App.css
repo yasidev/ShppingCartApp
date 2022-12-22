@@ -1,0 +1,44 @@
+@import 'antd/dist/reset.css';
+
+.layout{
+    height: 100vh;
+}
+.sider{
+    padding: 10px;
+    text-align: center;
+    background-color: darkgrey !important;
+}
+
+.tag{
+    display: block;
+    width: fit-content;
+    padding: 3px 20px;
+}
+.ant-row{
+    margin-bottom: 20PX;
+}
+
+.ant-typography{
+    margin-top:0 !important;
+}
+
+.actions{
+    display: block;
+}
+
+.listItems{
+    padding: 10px 30px;
+}
+
+.summary{
+    margin: 30px;
+}
+
+.total-payment h3{
+    color: blue;
+    font-weight: bold;
+    font-size: large;
+}
+.total-payment span{
+    font-weight: bold;
+}
